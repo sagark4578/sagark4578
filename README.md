@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagark4578" alt="sagark4578" /></a> </p>
 
-- 🔭 I’m currently working in [Sweply](https://salla.com/en/home/)
+- 🔭 I’m currently working in [salla](https://salla.com/en/home/)
 
 - 🌱 I’m currently learning **AIOps,FinOps**
 
